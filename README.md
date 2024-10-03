@@ -1,1 +1,1 @@
-# Computer-architect-assignment
+# Computer-architecture-assignment
